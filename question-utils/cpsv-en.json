@@ -1,0 +1,139 @@
+{
+    "PublicService": {
+        "name": "Issue of a Copy of a Driving Licence due to Loss or Theft",
+        "evidence": [
+            {
+                "id": 1,
+                "evs": [
+                    {
+                        "id": "ev0011",
+                        "type": "Evidence",
+                        "name": "One (1) recent passport-type photograph.",
+                        "description": "One (1) recent passport-type photograph, which can be submitted in person, by mail or digitally."
+                    },
+                    {
+                        "id": "ev0012",
+                        "type": "Evidence",
+                        "name": "Solemn declaration of article 8 of law 1599/1986.",
+                        "description": "Solemn declaration of article 8 of law 1599/1986."
+                    },
+                    {
+                        "id": "ev0013",
+                        "type": "Evidence",
+                        "name": "Driver's License Printing Application.",
+                        "description": "Application for Printing a Driving License. The application for printing a driving license, if not submitted digitally, is signed only by the holder of the driving license and not by a person authorized by the holder."
+                    },
+                    {
+                        "id": "ev0014",
+                        "type": "Evidence",
+                        "name": "Proof of payment/Printing of e-receipt 69€ (of the form marked for use in the institution) with code 37.",
+                        "description": "Proof of payment/Printing of an electronic receipt of €69 (of the form marked for use in the institution) with code 37, which is submitted in person or by post, in the case of a citizen with Greek citizenship."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "evs": [
+                    {
+                        "id": "ev0002",
+                        "type": "Evidence",
+                        "name": "Clear photocopy of ID card or valid Greek passport.",
+                        "description": "A clear photocopy of a police ID card or valid Greek passport, which is submitted in person or by post, in the case of a citizen with Greek citizenship."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "evs": [
+                    {
+                        "id": "ev0003",
+                        "type": "Evidence",
+                        "name": "A clear photocopy of a passport or other document, based on which he/she is allowed to enter Greece, or a document issued by a competent Greek authority.",
+                        "description": "A clear photocopy of a passport or other document, based on which he/she is allowed to enter Greece, or a document issued by a competent Greek authority, in the case of a third-country national."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "evs": [
+                    {
+                        "id": "ev0004",
+                        "type": "Evidence",
+                        "name": "A clear photocopy of an identity card or valid passport.",
+                        "description": "A clear photocopy of an identity card or valid passport, in the case of a citizen with citizenship of another EU member state."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "evs": [
+                    {
+                        "id": "ev0005",
+                        "type": "Evidence",
+                        "name": "A clear photocopy of any valid public document based on the provisions in force, which certifies the usual residence of the interested party in Greece.",
+                        "description": "A clear photocopy of any valid public document based on the provisions in force, if the interested party is not a Greek citizen, which certifies the interested party's habitual residence in Greece."
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "evs": [
+                    {
+                        "id": "ev0006",
+                        "type": "Evidence",
+                        "name": "Original certificate from the faculty or school, confirming student or pupil status.",
+                        "description": "Original certificate from the faculty or school, confirming the student or pupil status, if the interested foreign national on the day of submission of the application and supporting documents has the status of student or pupil in Greece, as well as for at least six (6) months prior."
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "evs": [
+                    {
+                        "id": "ev0007",
+                        "type": "Evidence",
+                        "name": "Authorization or notarized power of attorney of a third party by the directly interested party.",
+                        "description": "Authorization or notarial power of attorney from the directly interested party to the person authorizing to act on his/her behalf for the completion of the specific procedure, which also applies to the individual actions that may be required, provided that these actions are adequately described in the body of the authorization or power of attorney."
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "evs": [
+                    {
+                        "id": "ev0008",
+                        "type": "Evidence",
+                        "name": "Copy of a document from a Public Hospital or Private Microbiological Laboratory or the Police Identity Card stating the Blood Group.",
+                        "description": "Provided that the citizen wishes to have the blood group indicated on the driver's license - Copy of a document from a Public Hospital or Private Microbiological Laboratory or the Police Identity Card or the Army Graduation Certificate (for Greek citizens) indicating the Blood Group."
+                    }
+                ]
+            } 
+        ],
+        "criterion_requirements": [
+            {
+                "id": "cr0001",
+                "name": "Greek citizenship."
+            },
+            {
+                "id": "cr0002",
+                "name": "Third-country nationals."
+            },
+            {
+                "id": "cr0003",
+                "name": "Citizens with citizenship of another EU member state."
+            },
+            {
+                "id": "cr0004",
+                "name": "Students or pupils in Greece, on the day of the application, as well as for at least six (6) months prior."
+            },
+            {
+                "id": "cr0005",
+                "name": "They have their usual residence in Greece."
+            },
+            {
+                "id": "cr0006",
+                "name": "They reside in the area of ​​the relevant Transport and Communications Service of the Regional Unit, to which the application is submitted."
+            }
+        ]
+    }
+}

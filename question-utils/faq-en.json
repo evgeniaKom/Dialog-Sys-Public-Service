@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "question": "Is the application submitted online or in person?",
+        "answer": "The submission of the application can be done in person, by post or digitally through https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/metakineseis/antigrapho-adeias-odegeses-logo-klopes-apoleias. In case of digital submission, taxisnet codes are required."
+    },
+    {
+        "id": 1,
+        "question": "What is the validity period of the copy of a driving licence form?",
+        "answer": "The copy is valid for up to 15 years after its issue."
+    },
+    {
+        "id": 2,
+        "question": "How long does it take to issue a copy of a driving licence form?",
+        "answer": "The estimated time to issue a copy of a driver's license form is 1 month."
+    },
+    {
+        "id": 3,
+        "question": "What is the cost of issuing the document?",
+        "answer": "The cost of issuance is 69.02€."
+    },
+    {
+        "id": 4,
+        "question": "What happens if my driving licence has expired?",
+        "answer": "In case of an expired driving licence, you can find information on its renewal at https://mitos.gov.gr/index.php/ΔΔ:Ανανέωση_άδειας_οδήγησης_(κάθε_κατηγορίας)"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "question": "Which of the following categories do you belong to?",
+        "options": ["Greek citizen", "IThird-country citizen", "Citizen of EU Member States"]
+    },
+    {
+        "id": 1,
+        "question": "Do you have your residence in the area of the relevant Transport and Communications Service of the Regional Unit, where the application is submitted?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 2,
+        "question": "You have been a university student or a school student in Greece for at least the last six (6) months?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 3,
+        "question": "Please declare your status below.",
+        "options": ["I am applying for the document myself", "I am an authorized person of the owner of the copy of the driver's license."]
+    },
+    {
+        "id": 4,
+        "question": "Do you want your blood type to be indicated on your driver's license?",
+        "options": ["Yes", "No"]
+    }
+]
